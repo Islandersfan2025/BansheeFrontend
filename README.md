@@ -1,2 +1,2 @@
-# BansheeFrontend
-Banshee is Live Event Ticket Marketplace
+# BansheeMusicLabs
+Decentralized Music Marketplace
